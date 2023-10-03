@@ -20,7 +20,7 @@ Week-2: Fundamentals of Matlab
 
 Week-3: Tutorial Session on the basics of Matlab with Matlab as a calculator, Matrix algebra, and for loops using Matlab
 
-Week-4: 
+Week-4: Introduction to logical operators, conditional statements, switch operator in Matlab
 
 Week-5: 
 
