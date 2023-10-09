@@ -169,7 +169,7 @@ x = inv(A) * b
 % the even columns, values 0.
 
 A=zeros(100); 
-A(:,2:2:100)=2;
+A(:,1:2:100)=2;
 disp(A)
 
 %%%%%%%%%%%%%%%%%% END OF TD-1 %%%%%%%%%%%%%%%
